@@ -9,7 +9,9 @@ My name is Vinoth Robinson and I am currently a 3rd year student studying Comput
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I'm a big fan of anything related to Minecraft, Anime, Marvel, and Star Wars!
 
-\hline
+---
+
+### Languages and Tools
 
 
 <!--
