@@ -14,7 +14,7 @@ My name is Vinoth Robinson and I am currently a 3rd year student studying Comput
 ---
 
 ### Languages and Tools
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
 <!--
 **vinothrobinson/vinothrobinson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
