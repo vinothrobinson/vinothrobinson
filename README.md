@@ -5,7 +5,7 @@
 My name is Vinoth Robinson and I am currently a 3rd year student studying Computer Science at McMaster University!
 
 - 🔭 I’m currently working on various JavaScript repos!
-- 🌱 I’m currently working towards learning Raect!
+- 🌱 I’m currently working towards learning React, C++ and OpenGL!
 - 🤔 I’m currently interested in Front-End devlepment / Web Development
 - 📫 How to reach me: <a href = "mailto: vinothrobinson03@gmail.com">via my email</a>
 - 😄 Pronouns: He / Him
