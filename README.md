@@ -1,4 +1,5 @@
 ## Vinoth Robinson - McMaster University
+---
 ### Hello there! 👋
 
 My name is Vinoth Robinson and I am currently a 3rd year student studying Computer Science at McMaster University!
