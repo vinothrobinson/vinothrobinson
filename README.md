@@ -2,11 +2,11 @@
 
 My name is Vinoth Robinson and I am currently a 3rd year student studying Computer Science at McMaster University!
 
-🔭 I’m currently working on various JavaScript repos!\n
-🌱 I’m currently working towards learning Raect!\n
-📫 How to reach me: via my email: vinothrobinson03@gmail.com\n
-😄 Pronouns: He / Him\n
-⚡ Fun fact: I'm a big fan of anything related to Minecraft, Anime, Marvel, and Star Wars!\n
+🔭 I’m currently working on various JavaScript repos! \n 
+🌱 I’m currently working towards learning Raect! \n 
+📫 How to reach me: via my email: vinothrobinson03@gmail.com \n 
+😄 Pronouns: He / Him \n 
+⚡ Fun fact: I'm a big fan of anything related to Minecraft, Anime, Marvel, and Star Wars! \n 
 
 <!--
 **vinothrobinson/vinothrobinson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
