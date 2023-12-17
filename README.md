@@ -5,7 +5,7 @@
 My name is Vinoth Robinson and I am currently a 3rd year student studying Computer Science at McMaster University!
 
 - 🔭 I’m currently working on various JavaScript repos!
-- 🌱 I’m currently working towards learning React, C++ and OpenGL!
+- 🌱 I’m currently working towards learning React!
 - 🤔 I’m currently interested in Front-End devlepment / Web Development
 - 📫 How to reach me: <a href = "mailto: vinothrobinson03@gmail.com">via my email</a>
 - 😄 Pronouns: He / Him
@@ -19,6 +19,7 @@ My name is Vinoth Robinson and I am currently a 3rd year student studying Comput
 <img style="width:50px; height: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img style="width:50px; height: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img style="width:50px; height: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img style="width:50px; height: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img style="width:50px; height: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elm/elm-original.svg" />
 <img style="width:50px; height: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" />
 <img style="width:50px; height: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" />
@@ -28,6 +29,7 @@ My name is Vinoth Robinson and I am currently a 3rd year student studying Comput
 <img style="width:50px; height: 50px; background-color: white" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img style="width:50px; height: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
 <img style="width:50px; height: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />
+<img style="width:50px; height: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" />
 
 <!--
 **vinothrobinson/vinothrobinson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
