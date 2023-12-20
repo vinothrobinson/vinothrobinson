@@ -26,10 +26,11 @@ My name is Vinoth Robinson and I am currently a 3rd year student studying Comput
 <img style="width:50px; height: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img style="width:50px; height: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img style="width:50px; height: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img style="width:50px; height: 50px; background-color: white" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img style="width:50px; height: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
 <img style="width:50px; height: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />
 <img style="width:50px; height: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" />
+<img style="width:50px; height: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+<img style="width:50px; height: 50px; background-color: white" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img style="width:50px; height: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
 
 <!--
 **vinothrobinson/vinothrobinson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
