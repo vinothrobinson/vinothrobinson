@@ -4,12 +4,12 @@
 
 My name is Vinoth Robinson and I am currently a 4th year student studying Computer Science at McMaster University!
 
-- 🔭 I’m currently working on various JavaScript repos!
+- 🔭 I’m currently looking for a full-time position!
 - 🌱 I’m currently working towards learning React!
 - 🤔 I’m currently interested in Front-End development / Web Development
 - 📫 How to reach me: <a href = "mailto: vinothrobinson03@gmail.com">via my email</a>
 - 😄 Pronouns: He / Him
-- ⚡ Fun fact: I'm a big fan of anything related to Minecraft and Anime!
+<!-- - ⚡ Fun fact: I'm a big fan of anything related to Minecraft and Anime! -->
 
 ---
 
