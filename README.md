@@ -23,7 +23,7 @@ My name is Vinoth Robinson and I am currently a 4th year student studying Comput
 <img style="width:50px; height: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elm/elm-original.svg" />
 <img style="width:50px; height: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" />
 <img style="width:50px; height: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img style="width:50px; height: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
+<img style="width:50px; height: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" />
 <img style="width:50px; height: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
           
 ### Frameworks / Libraries
