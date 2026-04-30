@@ -13,7 +13,7 @@ My name is Vinoth Robinson and I am currently a 4th year student studying Comput
 
 ---
 
-### Languages and Tools
+### Languages
 <img style="width:50px; height: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img style="width:50px; height: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img style="width:50px; height: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img style="width:50px; height: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -31,6 +31,8 @@ My name is Vinoth Robinson and I am currently a 4th year student studying Comput
 <img style="width:50px; height: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
 <img style="width:50px; height: 50px; background-color: white" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img style="width:50px; height: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
+### Frameworks / Libraries
+### Tools
 
 <!--
 **vinothrobinson/vinothrobinson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
